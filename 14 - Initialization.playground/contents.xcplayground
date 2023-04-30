@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Initialization'/>
+        <page name='Default Property Values'/>
+        <page name='Initializers'/>
+        <page name='Setting Initial Values for Stored Properties'/>
+        <page name='Customizing Initialization'/>
+        <page name='Initialization Parameters'/>
+        <page name='Parameter Names and Argument Labels'/>
+        <page name='Initializer Parameters Without Argument Labels'/>
+        <page name='Optional Property Types'/>
+        <page name='Assigning Constant Properties During Initialization'/>
+        <page name='Default Initializers'/>
+        <page name='Memberwise Initializers for Structure Types'/>
+        <page name='Initializer Delegation for Value Types'/>
+        <page name='Class Inheritance and Initialization'/>
+        <page name='Designated Initializers and Convenience Initializers'/>
+        <page name='Syntax for Designated and Convenience Initializers'/>
+        <page name='Initializer Delegation for Class Types'/>
+        <page name='Two-Phase Initialization'/>
+        <page name='Initializer Inheritance and Overriding'/>
+        <page name='Automatic Initializer Inheritance'/>
+        <page name='Designated and Convenience Initializers in Action'/>
+        <page name='Failable Initializers'/>
+        <page name='Failable Initializers for Enumerations'/>
+        <page name='Failable Initializers for Enumerations with Raw Values'/>
+        <page name='Propagation of Initialization Failure'/>
+        <page name='Overriding a Failable Initializer'/>
+        <page name='The init! Failable Initializer'/>
+        <page name='Required Initializers'/>
+        <page name='Setting a Default Property Value with a Closure or Function'/>
+    </pages>
+</playground>
