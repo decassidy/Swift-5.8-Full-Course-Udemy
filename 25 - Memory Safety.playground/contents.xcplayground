@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Memory Safety'/>
+        <page name='Understanding Conflicting Access to Memory'/>
+        <page name='Characteristics of Memory Access'/>
+        <page name='Conflicting Access to In-Out Parameters'/>
+        <page name='Conflicting Access to self in Methods'/>
+        <page name='Conflicting Access to Properties'/>
+    </pages>
+</playground>
