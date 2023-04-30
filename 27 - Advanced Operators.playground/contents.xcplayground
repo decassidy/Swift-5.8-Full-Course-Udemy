@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Advanced Operators'/>
+        <page name='Bitwise Operators'/>
+        <page name='Bitwise NOT Operator'/>
+        <page name='Bitwise AND Operator'/>
+        <page name='Bitwise OR Operator'/>
+        <page name='Bitwise XOR Operator'/>
+        <page name='Bitwise Left and Right Shift Operators'/>
+        <page name='Overflow Operators'/>
+        <page name='Value Overflow'/>
+        <page name='Precedence and Associativity'/>
+        <page name='Operator Methods'/>
+        <page name='Prefix and Postfix Operators'/>
+        <page name='Compound Assignment Operators'/>
+        <page name='Equivalence Operators'/>
+        <page name='Custom Operators'/>
+        <page name='Precedence for Custom Infix Operators'/>
+        <page name='Result Builders'/>
+    </pages>
+</playground>

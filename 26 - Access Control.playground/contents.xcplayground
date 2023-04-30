@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Access Control'/>
+        <page name='Modules and Source Files'/>
+        <page name='Access Levels'/>
+        <page name='Guiding Principle of Access Levels'/>
+        <page name='Default Access Levels'/>
+        <page name='Access Levels for Single-Target Apps'/>
+        <page name='Access Levels for Frameworks'/>
+        <page name='Access Levels for Unit Test Targets'/>
+        <page name='Access Control Syntax'/>
+        <page name='Custom Types'/>
+        <page name='Tuple Types'/>
+        <page name='Function Types'/>
+        <page name='Enumeration Types'/>
+        <page name='Nested Types'/>
+        <page name='Subclassing'/>
+        <page name='Constants Variables Properties and Subscripts'/>
+        <page name='Getters and Setters'/>
+        <page name='Initializers'/>
+        <page name='Default Initializers'/>
+        <page name='Default Memberwise Initializers for Structure Types'/>
+        <page name='Protocols'/>
+        <page name='Protocol Inheritance'/>
+        <page name='Protocol Conformance'/>
+        <page name='Extensions'/>
+        <page name='Private Members in Extensions'/>
+        <page name='Generics'/>
+        <page name='Type Aliases'/>
+    </pages>
+</playground>
