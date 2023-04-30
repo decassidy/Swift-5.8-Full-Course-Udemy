@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Optional Chaining'/>
+        <page name='Optional Chaining as an Alternative to Forced Unwrapping'/>
+        <page name='Defining Model Classes for Optional Chaining'/>
+        <page name='Accessing Properties Through Optional Chaining'/>
+        <page name='Calling Methods Through Optional Chaining'/>
+        <page name='Accessing Subscripts Through Optional Chaining'/>
+        <page name='Accessing Subscripts of Optional Type'/>
+        <page name='Linking Multiple Levels of Chaining'/>
+        <page name='Chaining on Methods with Optional Return Values'/>
+    </pages>
+</playground>
