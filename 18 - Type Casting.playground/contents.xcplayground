@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Type Casting'/>
+        <page name='Defining a Class Hierarchy for Type Casting'/>
+        <page name='Checking Type'/>
+        <page name='Downcasting'/>
+        <page name='Type Casting for Any and AnyObject'/>
+    </pages>
+</playground>
