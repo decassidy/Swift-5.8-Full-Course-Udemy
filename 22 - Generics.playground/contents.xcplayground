@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Generics'/>
+        <page name='The Problem That Generics Solve'/>
+        <page name='Generic Functions'/>
+        <page name='Type Parameters'/>
+        <page name='Naming Type Parameters'/>
+        <page name='Generic Types'/>
+        <page name='Extending a Generic Type'/>
+        <page name='Type Constraints'/>
+        <page name='Type Constraint Syntax'/>
+        <page name='Type Constraints in Action'/>
+        <page name='Associated Types'/>
+        <page name='Associated Types in Action'/>
+        <page name='Extending an Existing Type to Specify an Associated Type'/>
+        <page name='Adding Constraints to an Associated Type'/>
+        <page name='Using a Protocol in Its Associated Types Constraints'/>
+        <page name='Generic Where Clauses'/>
+        <page name='Extensions with a Generic Where Clause'/>
+        <page name='Contextual Where Clauses'/>
+        <page name='Associated Types with a Generic Where Clause'/>
+        <page name='Generic Subscripts'/>
+    </pages>
+</playground>
